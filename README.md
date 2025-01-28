@@ -15,7 +15,6 @@
 - 🧹 **Web Scraping & Data Cleaning Pipelines** – Automating data extraction, transformation, and loading for analytical use cases.  
 
 ---
-
 ### 🔗 Connect with Me  
 [<sub>💼 LinkedIn</sub>](https://www.linkedin.com/in/tumi-modiba-3023b326/) | [<sub>🎬 IMDb</sub>](https://www.imdb.com/name/nm8745825/?ref_=nv_sr_srsg_0_tt_2_nm_3_in_0_q_Tumi%2520Modiba)  
 ---
