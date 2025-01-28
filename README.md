@@ -9,10 +9,10 @@
 
 ## 📜 Projects & Featured Work:
 
-- 🛡 **Phishing Campaign Simulation & Tracking System** – Security awareness tool for testing email vulnerabilities.  
-- 🏡 **Real Estate Price Prediction** – Web scraping + ML model deployed on Streamlit for house price estimation.  
-- 📨 **Email Tracking System** – A tracking script for analytics in marketing campaigns.  
-- 🧹 **Web Scraping & Data Cleaning Pipelines** – Automating data extraction, transformation, and loading for analytical use cases.  
+- 🛡 **Phishing Campaign Simulation & Tracking System** – Security awareness tool for testing email phishing vulnerabilities. Hosted on Streamlit using FastAPI, Gemini API and Matplotlib for dashboarding  
+- 🏡 **Real Estate Price Prediction** – Web scraping + ML model deployed on Streamlit for Belgian house price estimation.  
+- 🧹 **Web Scraping & Data Cleaning Pipelines** – Automating data extraction, transformation, and loading for analytical use cases.
+- 📈🗄 ** Data Analysis of Food Delivery Services across Belgium. Uber Eats, Deliveroo and Take-Away. 
 
 ---
 
