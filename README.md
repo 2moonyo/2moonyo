@@ -17,7 +17,7 @@
 ---
 
 ## 🔗 Connect with Me  
-[💼 LinkedIn](https://www.linkedin.com/in/tumi-modiba-3023b326/) |
+[💼 LinkedIn](https://www.linkedin.com/in/tumi-modiba-3023b326/) | [🎬 IMDb](https://www.imdb.com/name/nm8745825/?ref_=nv_sr_srsg_0_tt_2_nm_3_in_0_q_Tumi%2520Modiba)  
 ---
 
 ## 🚀 About Me  
