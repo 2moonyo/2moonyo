@@ -17,8 +17,7 @@
 ---
 
 ## 🔗 Connect with Me  
-[🌐 Portfolio](#) | [💼 LinkedIn](#) | [🐦 Twitter](#)  
-
+[💼 LinkedIn](https://www.linkedin.com/in/tumi-modiba-3023b326/) |
 ---
 
 ## 🚀 About Me  
